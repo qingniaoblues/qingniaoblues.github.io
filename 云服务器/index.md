@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Archives: 2020 | 青鸟blues</title>
+    <title>香港节点免备案云服务器 | 青鸟blues</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="keywords" content="">
     <meta name="description" content="">
@@ -32,7 +32,7 @@
     <div id="nav">
         <div class="nav-img" id="nav-img"></div>
         <div class="sentences">
-            云里写诗，泥里生活，岁月里洒脱。
+            时光荏苒，旦夕之间，略有遗憾，似白驹过隙，蹉跎自悟。
         </div>
     </div>
 </header>
@@ -40,24 +40,26 @@
 <div id="content-outer">
     <div id="content-inner">
         <div class="clearfix">
-    <div id="archive">
-        <h1>undefined/2020</h1>
-        
-        <div class="item">
-            <h3>
-                <time datetime="2020-05-14T15:01:57.868Z">
-                    2020-05-14
-                </time>
-                
-                <!-- internal link -->
-                <a href="/2020/05/14/hello-world/">
-                    你好，欢迎来到我的博客
-                </a>
-                
-            </h3>
+    <article id="page">
+        <div class="page-content">
+            <h1>香港节点免备案云服务器</h1>
+            <p>阿里云服务器</p>
+<h2 id="香港服务器"><a href="#香港服务器" class="headerlink" title="香港服务器"></a>香港服务器</h2><h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+
         </div>
         
-    </div>
+    </article>
     <div id="content-aside">
     <div class="content-aside-owner">
         <div id="owner">
@@ -133,9 +135,7 @@
 </div>
 
 </div>
-<div id="archive-paginator" class="clearfix">
-    <span class="page-number current">1</span>
-</div>
+
 
     </div>
 </div>
